@@ -1,0 +1,4 @@
+[build]
+  command = "npm run build"
+  publish = "/opt/build/repo/mood-based-music-recommendation-frontend"
+  # other configuration options if needed
